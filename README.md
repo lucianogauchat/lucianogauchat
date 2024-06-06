@@ -1,5 +1,8 @@
 ## Hi there 👋
-hi there
+👋 Hi, I’m Luciano Gauchat
+👀 I use data to improve processes and to create solutions for businesses and organizations
+🌱 I'm an Industrial Engineer working in Business Analytics over the last 2 years
+🤝 Languages: I’m skilled in POWER BI, SQL and EXCEL.
 <!--
 **lucianogauchat/lucianogauchat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
