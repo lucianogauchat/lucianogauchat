@@ -4,7 +4,7 @@
 
 🌱 I'm an Industrial Engineer working in Business Analytics over the last 2 years
 
-🤝 Languages: I’m skilled in POWER BI, SQL and EXCEL.
+🤝 Languages: I’m skilled in POWER BI, EXCEL, SQL and PYTHON.
 <!--
 **lucianogauchat/lucianogauchat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
